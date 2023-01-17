@@ -22,7 +22,7 @@
 * Soon to be added. This will be updated very soon, but before it does you can check me out in the servers above etc.
 
 **Availability**
-* i am available all day. but if you message me and i don't reply, please wait a bit since i am either sleeping or busy at some other project.
+* I am usually available all day, but i only work around 3-4 hours on rblx.
 
 **Contact:**
 * Discord: fallen angel#8544
