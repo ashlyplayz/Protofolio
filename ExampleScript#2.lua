@@ -1,7 +1,7 @@
+--// These scripts won't work as they will be needing alot of instances
+
 local Players = game:GetService("Players")
-
 local Part = workspace.SafeZones.SF1
-
 local PlayersTouching = {}
 local AllPlayersTouching = false
 
