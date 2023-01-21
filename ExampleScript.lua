@@ -1,3 +1,5 @@
+--// These scripts won't work as they will be needing alot of instances
+
 local MarketplaceService = game:GetService("MarketplaceService")
 local player = game.Players.LocalPlayer
 local Main = script.Parent
