@@ -1,0 +1,9 @@
+Hello, the following should be made for the above to work.
+
+1. Create a Localscript -> StarterCharacterScripts.
+2. Add the client script code into it.
+3. Create a ServerScript -> add it inside the Locascript -> Parent = Localscript.
+4. Add the Server script code into it.
+5. Add 2 Animations Parented to Localscript -> Named: Dash, Parry.
+6. Add a RemoteEvent.
+7. Thats all the combat system should work.
