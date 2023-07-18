@@ -20,8 +20,6 @@
 
 **Recent Works**
 * Soon to be added. This will be updated very soon, but before it does you can check me out in the servers above etc.
-* https://streamable.com/n7vyw6
-* https://streamable.com/9bgicz
 * https://i.gyazo.com/a0fe3b40050d40091284973b7c9b7995.mp4
 
 **Availability**
