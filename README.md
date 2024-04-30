@@ -26,13 +26,12 @@
 
 **Recent Works**
 * Soon to be added. This will be updated very soon, but before it does you can check me out on the servers above, etc.
-* https://i.gyazo.com/a0fe3b40050d40091284973b7c9b7995.mp4
-
+* 
 **Availability**
 * I am usually available all day, but I only work around 3-4 hours on Roblox.
 
 **Contact:**
-* Discord: ashly_playz
+* Discord: ashly_k
 
 **Payment:**
 * I would be taking Half Payment of the full payment Up-Front as it will make us both committed to the current work. And will take the full when your product is complete.
