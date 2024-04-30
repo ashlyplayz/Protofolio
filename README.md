@@ -1,10 +1,13 @@
-# Roblox Portfolio
+**Roblox Scripting Portfolio**
 
-**Intro**
-* Hello, I am Ashly, I am a scripter and I specialize in some programming languages. I am usually up all night and day so we can interact. 
+**Introduction:**
+Welcome to my Roblox Scripting Portfolio, where creativity meets functionality! As a dedicated Roblox developer with a passion for scripting, I bring to the table a diverse range of skills and experiences. Below, you'll find a showcase of my abilities through various scripting projects that demonstrate my proficiency in Lua and my commitment to excellence in Roblox development.
 
-**SkillSet**
-* I have been scripting on Roblox for years now, my skillset is of an experienced scripter. I can script you anything as long as it's worth the payment. My programming/coding style is very clean and sorted, you will not have any problem reading/editing any of it. My Skill sets include:
+**HIGHLIGHTS:**
+* Soon to be added.
+
+**NOTABLES:**
+* I can pretty much make you everything you need to make a full game, such as:
   * Datastores.
   * UIs
   * Weapons
@@ -13,27 +16,16 @@
   * Full Games
   * Complex Modules
   * Everything else you need can be done.
-* Can code in:
-  * Object Oriented Programming.
-  * Normal Style
-  * Modules, Functional Style
-* Can also use all the frameworks such as:
-  * Maid, Promise, knit, etc
- 
-* I CAN MAKE YOU FULL GAMES OR HELP YOU MAKE FULL GAMES EASILY. I HAVE WORKED AT PROFESSIONAL IT COMPANIES AND WORKED AT TONS OF FRONTPAGE ROBLOX GAMES. CONTRIBUTED TO AROUND 20+ ROBLOX GAMES WITH OVER 3000-5000 CCU.
-* I CAN WORK ON PROJECT SOLO OR WITH A TEAM, I AM GOOD AT COMMUNICATING AND POSTING DAILY PROGRESS REPORTS.
-* PAYMENT IS DEPENDENT ON THE TASK WE WILL BE DOING, AND I REQUIRE AT LEAST 50% UPFRONT IF I FEEL LIKE I NEED IT, TO COMMIT AND SECURE BOTH OF US.
+* I can code in Object Oriented Programming. Normal Style, Modules, Functional Style. And i am also efficient in Frameworks such as Knit etc.
 
-**Recent Works**
-* Soon to be added. This will be updated very soon, but before it does you can check me out on the servers above, etc.
-  
-**Availability**
-* I am usually available all day, but I only work around 3-4 hours on Roblox.
+**Conclusion:**
+These projects represent a sampling of my expertise in Roblox scripting, showcasing my ability to create innovative solutions to complex challenges in game development. Whether it's building immersive user interfaces, implementing data-driven gameplay systems, or designing lifelike AI behaviors, I am dedicated to delivering high-quality solutions that elevate the Roblox experience for players and developers alike. Thank you for considering my portfolio, and I look forward to the opportunity to collaborate on future projects!
 
-**Contact:**
+**PAYMENT:**
+* I take half payment upfront and the rest on completion.
+* I can take Crypto, Bank & Robux.
+
+**CONTACT:**
 * Discord: ashly_k
 
-**Payment:**
-* I would be taking Half Payment of the full payment Up-Front as it will make us both committed to the current work. And will take the full when your product is complete.
-
-**Everything you need to know before hiring me should be above, thank you for reading my portfolio**
+Thank you for reading!
