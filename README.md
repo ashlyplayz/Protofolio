@@ -9,22 +9,17 @@ Welcome to my Roblox Scripting Portfolio, where creativity meets functionality! 
 
 **NOTABLES:**
 * I can pretty much make you everything you need to make a full game, such as:
-  * Datastores.
-  * UIs.
-  * Weapons.
-  * Vehicles.
-  * Sea, Water stuff.
-  * Full Games.
-  * Tycoons.
-  * Simulators.
-  * Shooting Games.
-  * Combat Systems. (I make the combat systems through frameworks, so the framework will be automatically included)
-  * Open World Games.
-  * Abilities.
-  * Complex Modules.
-  * Everything else you need can be done.
-  * **I can make anything, will just need a description and reference of the things you want made**
-* I can code in Object Oriented Programming. Normal Style, Functional Style. I am also efficient in Frameworks such as Knit etc. Everything I create is done through module-scripts, so very easy to customize and understand
+  - UI Animations & Scripting.
+  - Combat Systems & Full Game Backends.
+  - Custom Frameworks & Handlers.
+  - Combat Moves, Anime Moves, Character Moves.
+  - Shooting Systems & FPS-type games, Weapons,
+  - Vehicles & other things related to it.
+  - Artificial Intelligence (to your liking, can be advanced can be dumb)
+  - RPG games scripting.
+  - Datastores, Data Handling.
+  - Full Roblox Games, Will need you to provide assets & concepts.
+  - Almost everything can be made.
 
 **Conclusion:**
 These projects represent a sampling of my expertise in Roblox scripting, showcasing my ability to create innovative solutions to complex challenges in game development. Whether it's building immersive user interfaces, implementing data-driven gameplay systems, or designing lifelike AI behaviors, I am dedicated to delivering high-quality solutions that elevate the Roblox experience for players and developers alike. Thank you for considering my portfolio, and I look forward to the opportunity to collaborate on future projects!
