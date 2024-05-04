@@ -5,7 +5,7 @@ Welcome to my Roblox Scripting Portfolio, where creativity meets functionality! 
 
 **HIGHLIGHTS:**
 * [![Minimap & Compass System]()](https://streamable.com/4eudgm)
-* Scripting Style : ![Uploading image.png…]()
+* Scripting Style: https://media.discordapp.net/attachments/1236222960700756039/1236367035852787882/image.png
 
 * Soon to be added.
 
