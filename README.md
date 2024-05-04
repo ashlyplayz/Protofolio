@@ -8,7 +8,7 @@ Welcome to my Roblox Scripting Portfolio, where creativity meets functionality! 
 * Soon to be added.
 
 **NOTABLES:**
-* I can pretty much make you everything you need to make a full game, such as:
+* THINGS I CAN DO:
   - UI Animations & Scripting.
   - Combat Systems & Full Game Backends.
   - Custom Frameworks & Handlers.
