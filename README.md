@@ -9,19 +9,18 @@ Welcome to my Roblox Scripting Portfolio, where creativity meets functionality! 
 * [![Simple Combat (Dash, Slide, Crouch, M1s, Heavy, Tilting Test) (No Animations)]()](https://streamable.com/xtvoso)
 * More will soon be added, but for now these should do.
 
-**NOTABLES:**
-* THINGS I CAN DO:
-  - UI Animations & Scripting.
-  - Combat Systems & Full Game Backends.
-  - Custom Frameworks & Handlers.
-  - Combat Moves, Anime Moves, Character Moves.
-  - Shooting Systems & FPS-type games, Weapons,
-  - Vehicles & other things related to it.
-  - Artificial Intelligence (to your liking, can be advanced can be dumb)
-  - RPG games scripting.
-  - Datastores, Data Handling.
-  - Full Roblox Games, Will need you to provide assets & concepts.
-  - Almost everything can be made.
+**THINGS I CAN DO:**
+- UI Animations & Scripting.
+- Combat Systems & Full Game Backends.
+- Custom Frameworks & Handlers.
+- Combat Moves, Anime Moves, Character Moves.
+- Shooting Systems & FPS-type games, Weapons,
+- Vehicles & other things related to it.
+- Artificial Intelligence (to your liking, can be advanced can be dumb)
+- RPG games scripting.
+- Datastores, Data Handling.
+- Full Roblox Games, Will need you to provide assets & concepts.
+- Almost everything can be made.
 
 **Conclusion:**
 These projects represent a sampling of my expertise in Roblox scripting, showcasing my ability to create innovative solutions to complex challenges in game development. Whether it's building immersive user interfaces, implementing data-driven gameplay systems, or designing lifelike AI behaviors, I am dedicated to delivering high-quality solutions that elevate the Roblox experience for players and developers alike. Thank you for considering my portfolio, and I look forward to the opportunity to collaborate on future projects!
