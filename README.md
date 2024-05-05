@@ -26,8 +26,8 @@ Welcome to my Roblox Scripting Portfolio, where creativity meets functionality! 
 These projects represent a sampling of my expertise in Roblox scripting, showcasing my ability to create innovative solutions to complex challenges in game development. Whether it's building immersive user interfaces, implementing data-driven gameplay systems, or designing lifelike AI behaviors, I am dedicated to delivering high-quality solutions that elevate the Roblox experience for players and developers alike. Thank you for considering my portfolio, and I look forward to the opportunity to collaborate on future projects!
 
 **PAYMENT:**
-* HALF UPFRONT & HALF ON COMPLETION.
-* METHODS: ROBUX, CRYPTO, BANK
+* Half Payment would be upfront paid before I start, The rest would be after I show you on call or video or tested.
+* Payment Methods Include: Robux, Crypto, Bank
 
 **CONTACT:**
 * Discord: ashly_k
