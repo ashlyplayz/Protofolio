@@ -5,6 +5,7 @@ Welcome to my Roblox Scripting Portfolio, where creativity meets functionality! 
 
 **HIGHLIGHTS:**
 * [![Minimap & Compass System]()](https://streamable.com/4eudgm)
+* [![Star System (Spring, Glide, Light)]()](https://streamable.com/007jyr)
 * Soon to be added.
 
 **NOTABLES:**
