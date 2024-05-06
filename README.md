@@ -20,7 +20,7 @@ Welcome to my Roblox Scripting Portfolio, where creativity meets functionality! 
 - RPG games scripting.
 - Datastores, Data Handling.
 - Full Roblox Games, Will need you to provide assets & concepts.
-- Almost everything can be made.
+- Almost everything can be made. Been scripting for 6+ years.
 
 **Conclusion:**
 These projects represent a sampling of my expertise in Roblox scripting, showcasing my ability to create innovative solutions to complex challenges in game development. Whether it's building immersive user interfaces, implementing data-driven gameplay systems, or designing lifelike AI behaviors, I am dedicated to delivering high-quality solutions that elevate the Roblox experience for players and developers alike. Thank you for considering my portfolio, and I look forward to the opportunity to collaborate on future projects!
