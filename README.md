@@ -6,7 +6,6 @@ Welcome to my Roblox Scripting Portfolio, where creativity meets functionality! 
 **HIGHLIGHTS:**
 * [![Minimap & Compass System]()](https://streamable.com/4eudgm)
 * [![Star System (Spring, Glide, Light)]()](https://streamable.com/007jyr)
-* [![Simple Combat (Dash, Slide, Crouch, M1s, Heavy, Tilting Test) (No Animations)]()](https://streamable.com/xtvoso)
 * More will soon be added, but for now these should do.
 
 **THINGS I CAN DO:**
