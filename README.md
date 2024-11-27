@@ -6,7 +6,15 @@ Welcome to my Roblox Scripting Portfolio, where creativity meets functionality! 
 **HIGHLIGHTS:**
 * [![Minimap & Compass System]()](https://streamable.com/4eudgm)
 * [![Star System (Spring, Glide, Light)]()](https://streamable.com/007jyr)
-* More will soon be added, but for now these should do.
+* More will soon be added, but for now, these should do.
+* Worked at Boss Studios & games such as: 
+* Stands Awakening
+* Anime Last Stand
+* Dragon Ball Ultimate
+* Heroes World
+* Bike Of Hell
+* UpDog
+* Contributed to around 490 million visits.
 
 **THINGS I CAN DO:**
 - UI Animations & Scripting.
