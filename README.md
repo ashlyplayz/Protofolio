@@ -37,6 +37,6 @@ These projects represent a sampling of my expertise in Roblox scripting, showcas
 * Payment Methods Include: Robux, Crypto, Bank
 
 **CONTACT:**
-* Discord: ashly_k
+* Discord: nad_jinxxx
 
 Thank you for reading!
