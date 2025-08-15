@@ -6,6 +6,8 @@ Welcome to my Roblox Scripting Portfolio, where creativity meets functionality! 
 **HIGHLIGHTS:**
 * [![Minimap & Compass System]()](https://streamable.com/4eudgm)
 * [![Star System (Spring, Glide, Light)]()](https://streamable.com/007jyr)
+* [![AI Test]()]([https://streamable.com/007jyr](https://i.gyazo.com/a0fe3b40050d40091284973b7c9b7995.mp4))
+* [![Game Stuff)]()]([https://streamable.com/007jyr](https://streamable.com/aapl8g))
 * More will soon be added, but for now, these should do.
 * Contributed to around 490 million visits.
 
@@ -30,6 +32,6 @@ These projects represent a sampling of my expertise in Roblox scripting, showcas
 * Payment Methods Include: Robux, Crypto, Bank
 
 **CONTACT:**
-* Discord: nad_jinxxx
+* Discord: shamsame
 
 Thank you for reading!
