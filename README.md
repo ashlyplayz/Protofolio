@@ -6,8 +6,8 @@ Welcome to my Roblox Scripting Portfolio, where creativity meets functionality! 
 **HIGHLIGHTS:**
 * [![Minimap & Compass System]()](https://streamable.com/4eudgm)
 * [![Star System (Spring, Glide, Light)]()](https://streamable.com/007jyr)
-* [![AI Test]()]((https://i.gyazo.com/a0fe3b40050d40091284973b7c9b7995.mp4))
-* [![Game Stuff)]()]((https://streamable.com/aapl8g))
+* [![AI STUFF]()](https://i.gyazo.com/a0fe3b40050d40091284973b7c9b7995.mp4)
+* [![AI STUFF]()](https://streamable.com/aapl8g)
 * More will soon be added, but for now, these should do.
 * Contributed to around 490 million visits.
 
